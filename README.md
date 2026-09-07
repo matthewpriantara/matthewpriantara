@@ -29,6 +29,7 @@
 
 ### 👨‍💻 About Me
 
+```text
 Software Engineering Student at Universitas Gadjah Mada.
 Passionate about Software Quality Assurance, Data Science, and Fullstack Development.
 Building reliable applications with Python, Java, and TypeScript.
@@ -38,10 +39,10 @@ Building reliable applications with Python, Java, and TypeScript.
     <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,nextjs,tailwind,postgres,git,figma,postman" alt="Tech Stack" />
   </a>
 </p>
-📊 GitHub Overview
+📊 GitHub Activity & Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matthewpriantara&show_icons=true&theme=nightowl&hide_border=true&title_color=61afef&icon_color=61afef&text_color=abb2bf&bg_color=0d1117" alt="Matthew's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpriantara&layout=compact&theme=nightowl&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=0d1117&hide=html,css" alt="Top Languages" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewpriantara&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matthewpriantara&theme=github_dark" alt="Profile Summary" />
 </div>
 <br />
 <!-- SNAKE CONTRIBUTION ANIMATION -->
@@ -51,3 +52,4 @@ Building reliable applications with Python, Java, and TypeScript.
 <p align="center">
   <sub>Designed with simplicity in mind.</sub>
 </p>
+```
