@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Software Engineering Student at Universitas Gadjah Mada.
 
@@ -37,7 +37,7 @@ Building reliable applications with Python, Java, and TypeScript.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@ Building reliable applications with Python, Java, and TypeScript.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
 
